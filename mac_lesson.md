@@ -20,6 +20,7 @@
 - トラックパッド
 - iCloud
 - os情報確認、アップデート
+- 特定のエディタでファイルを開く
 
 ## iPhoneとの連携
 - ユニバーサルクリップ https://support.apple.com/ja-jp/HT209460
@@ -111,6 +112,13 @@ control + tab
 
 画面を閉じる
 
+```
+command + w
+```
+
 ## 便利なアプリ
+- メモ帳
 - Alfred
 - Clipy
+- keynote
+- pandoc
