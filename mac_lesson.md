@@ -3,6 +3,11 @@
 ## 参考記事
 [Macの便利な使い方〜設定編](https://qiita.com/hondy12345/items/ef037e752315ea4b735d)
 [【保存版】Mac好きなら絶対に押さえておくべき設定・アプリ・ショートカットキー130選](https://boxil.jp/mag/a2245/)
+[最強のエディタiText Express｜その魅力と縦書き設定の仕方をご紹介](https://monosophia.com/app-tool/itext_express/#i-5)
+[Wineを用いてMacでGRCを利用する方法](https://seopro.jp/grc/wine)
+[Mac対応の検索順位チェックツールについて](https://bullseo.jp/mac/)
+
+
 
 ## カリキュラム
 - Macの設定
